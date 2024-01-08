@@ -11,7 +11,7 @@ function Doctors() {
     <div className="doctor-section" id="doctors">
       <div className="dt-title-content">
         <h3 className="dt-title">
-          <span>Meet Our Doctors</span>
+          <span>Meet Our Caregivers</span>
         </h3>
 
         <p className="dt-description">

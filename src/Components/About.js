@@ -15,7 +15,7 @@ function About() {
           <span>About Us</span>
         </h3>
         <p className="about-description">
-          Welcome to Health Plus, your trusted partner for accessible and
+          Welcome to All In One Care, your trusted partner for accessible and
           personalized caregivers.
         </p>
 
