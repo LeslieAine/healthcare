@@ -5,6 +5,7 @@ import {
   faBars,
   faXmark,
 } from "@fortawesome/free-solid-svg-icons";
+import Logo from '../Assets/Logo.png'
 import "../Styles/NavBar.css";
 import { Link } from "react-router-dom";
 import { toast } from "react-toastify";
@@ -31,7 +32,8 @@ function Navbar() {
     <div className="navbar-section">
       <h1 className="navbar-title">
         <Link to="/">
-          Health <span className="navbar-sign">+</span>
+          {/* Health <span className="navbar-sign">+</span> */}
+        <img src={Logo} alt="Doctor Group" className="logo" />
         </Link>
       </h1>
 

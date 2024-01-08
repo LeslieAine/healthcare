@@ -10,11 +10,11 @@ function Footer() {
         <div className="ft-info">
           <div className="ft-info-p1">
             <p className="ft-title">
-              Health <span className="ft-sign">+</span>
+              All in One <span className="ft-sign">Care</span>
             </p>
             <p className="ft-description">
               Talk online to our caregivers and get advice, online
-              conversations and notes within minutes. On-demand
+                conversations and notes within minutes. On-demand
               health and home care services at your fingertips.
             </p>
           </div>
@@ -62,11 +62,11 @@ function Footer() {
           <p className="ft-list-title">Talk To Us</p>
           <ul className="ft-list-items">
             <li>
-              <a href="mailto:support@healthplus.com">support@healthplus.com</a>
+              <a href="mailto:support@healthplus.com">support@allinonecare.com</a>
             </li>
             <li>
               <a href="mailto:appointment@healthplus.com">
-                appointment@healthplus.com
+                appointment@allinonecare.com
               </a>
             </li>
             <li>
@@ -80,7 +80,7 @@ function Footer() {
       </div>
 
       <div className="ft-copyright">
-        <p>© 2013-2023 Health+. All rights reserved.</p>
+        <p>© 2013-2023 AllinOneCare. All rights reserved.</p>
 
         <ul className="ft-social-links">
           <li>
