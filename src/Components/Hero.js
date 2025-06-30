@@ -32,6 +32,20 @@ function Hero() {
     };
   }, []);
 
+  useEffect(() => {
+    const pageScroll = () => {
+      if (window.scrollX > 500) {
+        setGoUp(true);
+      } else {
+        setGoUp(false);
+      }
+    }
+
+    return () => {
+      window.removeEventListener('scroll', pageScroll);
+    };
+  }, [])
+
   return (
     <div className="section-container">
       <div className="hero-section">

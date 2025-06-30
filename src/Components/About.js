@@ -10,6 +10,10 @@ function About() {
         <img src={Doctor} alt="Doctor Group" className="about-image1" />
       </div>
 
+      <div className="about" id='about'>
+        <img src={Doctor} alt= 'Doctors' className="about-img" />
+      </div>
+
       <div className="about-text-content">
         <h3 className="about-title">
           <span>About Us</span>

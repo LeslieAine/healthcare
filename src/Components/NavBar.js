@@ -28,6 +28,16 @@ function Navbar() {
     }
   };
 
+  const handleClick = () => {
+    if(!isButtonDisabled){
+      toast.info('high traffic', {
+        position: toast.POSITION.TOP_LEFT,
+        onOpen: () => setIsButtonDisabled(true),
+        onClose: () => setIsButtonDisabled(false),
+      });
+    }
+  }
+
   return (
     <div className="navbar-section">
       <h1 className="navbar-title">
