@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/healthcare/static/css/main.62408fb5.css",
+    "main.js": "/healthcare/static/js/main.ae7d0dcf.js",
+    "static/media/profile-2.png": "/healthcare/static/media/profile-2.4752a9db34458eeffcfa.png",
+    "static/media/care.jpeg": "/healthcare/static/media/care.d9d3ecebb2b878c966b8.jpeg",
+    "static/media/profile-1.png": "/healthcare/static/media/profile-1.0261bb4efe7a9075c56a.png",
+    "static/media/profile-3.png": "/healthcare/static/media/profile-3.530bb2fd7ece3dd3b3be.png",
+    "static/media/doctor-book-appointment.png": "/healthcare/static/media/doctor-book-appointment.edb3f4ac282ff3fefaec.png",
+    "static/media/profile-4.png": "/healthcare/static/media/profile-4.3c44185ab9c84614038f.png",
+    "static/media/nurse.png": "/healthcare/static/media/nurse.94e037d6779df00cc8a8.png",
+    "static/media/Logo.png": "/healthcare/static/media/Logo.09d14648a503381940f4.png",
+    "index.html": "/healthcare/index.html",
+    "main.62408fb5.css.map": "/healthcare/static/css/main.62408fb5.css.map",
+    "main.ae7d0dcf.js.map": "/healthcare/static/js/main.ae7d0dcf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62408fb5.css",
+    "static/js/main.ae7d0dcf.js"
+  ]
+}
